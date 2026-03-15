@@ -19,7 +19,7 @@ const emoji = categoryEmoji[random.category] || categoryEmoji.default;
 const encodedQuote = encodeURIComponent(random.text);
 const encodedAuthor = encodeURIComponent(random.author);
 
-const imageUrl = `https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=${emoji}%20${encodedQuote}&author=${encodedAuthor}`;
+const imageUrl = `https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=${encodedQuote}&author=${encodedAuthor}${emoji}%20`;
 
 let readme = fs.readFileSync("README.md", "utf8");
 
