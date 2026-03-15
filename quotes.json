@@ -1,0 +1,82 @@
+[
+  {
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "category": "coding"
+  },
+  {
+    "text": "Code is like humor. When you have to explain it, it's bad.",
+    "author": "Cory House",
+    "category": "coding"
+  },
+  {
+    "text": "Così è, se vi pare.",
+    "author": "Luigi Pirandello",
+    "category": "literature"
+  },
+  {
+    "text": "Il modo per iniziare è smettere di parlare e cominciare a fare.",
+    "author": "Walt Disney",
+    "category": "life"
+  },
+  {
+    "text": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning.",
+    "author": "Rick Cook",
+    "category": "coding"
+  },
+  {
+  "text": "Without music, life would be a mistake.",
+  "author": "Friedrich Nietzsche",
+  "category": "music"
+  },
+  {
+    "text": "La semplicità è la massima sofisticazione.",
+    "author": "Leonardo da Vinci",
+    "category": "life"
+  },
+  {
+    "text": "It's not a bug — it's an undocumented feature!",
+    "author": "Anonimo",
+    "category": "coding"
+  },
+  {
+    "text": "When I wrote this code, only God and I understood what I did. Now only God knows.",
+    "author": "Anonimo",
+    "category": "coding"
+  },
+  {
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "category": "coding"
+  },
+  {
+    "text": "Where words fail, music speaks.",
+    "author": "Hans Christian Andersen",
+    "category": "music"
+  },
+  {
+    "text": "Nobody's perfect.",
+    "author": "Some Like It Hot (1959)",
+    "category": "movie"
+  },
+  {
+    "text": "Your future is whatever you make it. So make it a good one.",
+    "author": "Back to the Future Part II (1989)",
+    "category": "movie"
+  },
+  {
+    "text": "Il teatro è l'unico posto dove puoi dire la verità e la gente ride, invece di arrabbiarsi.",
+    "author": "Paolo Rossi",
+    "category": "humor"
+  },
+  {
+    "text": "Fare ridere è una cosa seria. Fin troppo seria.",
+    "author": "Paolo Rossi",
+    "category": "humor"
+  },
+  {
+    "text": "La comicità è la maschera più onesta che esista.",
+    "author": "Anna Marchesini",
+    "category": "life"
+  }
+]
