@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=La%20tua%20citazione&author=Autore" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&quote=undefined&author=Back%20to%20the%20Future%20Part%20II%20(1989)" alt="🎬 Quote" width="500"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/457B9D/white/640/spotify:track:77NNZQSqzLNqh2A9JhLRkg" alt="Spotify" height=80/>
