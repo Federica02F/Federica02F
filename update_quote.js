@@ -16,7 +16,7 @@ const random = quotes[Math.floor(Math.random() * quotes.length)];
 
 const emoji = categoryEmoji[random.category] || categoryEmoji.default;
 
-const encodedQuote = encodeURIComponent(random.quote);
+const encodedQuote = encodeURIComponent(random.text);
 const encodedAuthor = encodeURIComponent(random.author);
 
 const imageUrl = `https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=${emoji}%20${encodedQuote}&author=${encodedAuthor}`;
