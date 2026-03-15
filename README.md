@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&quote=undefined&author=Martin%20Fowler" alt="💻 Quote" width="500"/>
+<img src="https://quotes-github-readme.vercel.app/api?quote=💻%20undefined&author=John%20Johnson" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/457B9D/white/640/spotify:track:77NNZQSqzLNqh2A9JhLRkg" alt="Spotify" height=80/>
