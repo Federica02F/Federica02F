@@ -2,7 +2,10 @@ name: Update Random Spotify Track
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # ogni giorno alle 9
+    - cron: '0 0 * * *'  # ogni giorno a 00:00
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
