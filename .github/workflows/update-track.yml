@@ -1,0 +1,61 @@
+name: Update Random Spotify Track
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # ogni giorno alle 9
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pick random track and update README
+        run: |
+          # Definisci track e colore associato (formato: "TRACK_URI|COLORE_HEX")
+          TRACKS=(
+            "spotify:track:77NNZQSqzLNqh2A9JhLRkg|457B9D|white"
+            "spotify:track:1bPjKGuUCsZt6m2oQs94mN|9E312D|white"
+            "spotify:track:5VZIBqWgKObgTwHSB7FQsl|292929|white"
+            "spotify:track:1QbOvACeYanja5pbnJbAmk|E3C96C|black"
+            "spotify:track:5ZaDUleherOLBbHk2PU1Kr|0D1B2A|white"
+            "spotify:track:4unVGHGz7jg12vaahoFyMB|D8723B|black"
+            "spotify:track:32p3e78I33Cxv13Nvqimxz|AB1E2E|black"
+            "spotify:track:6dGnYIeXmHdcikdzNNDMm2|425A4D|white"
+            "spotify:track:0BCPKOYdS2jbQ8iyB56Zns|393735|white"
+            "spotify:track:2DmZ7aPhT5jkqLIYxTpQlJ|879DB4|black"
+            "spotify:track:7jaqqD5RuxCzGXx4HeB4Dh|DA2828|black"
+            "spotify:track:3cfOd4CMv2snFaKAnMdnvK|37307F|white"
+            "spotify:track:3Y7fpFZbHLpAvWJJYGehz0|E37427|black"
+            "spotify:track:1Bd1LDJyjKDJC7pznEMYOR|F8CD02|black"
+            "spotify:track:0HQf0bd3oSZei450iKuUFR|4283C2|white"
+            "spotify:track:6OzeWNA1SQgZBw5caqAIKN|163762|white"
+            "spotify:track:7vAzIVfyFp8hOVCOQChwA0|EF7B64|black"
+            "spotify:track:5v5p9VZEWZmcKC2cPlq4rl|5C5066|white"
+            "spotify:track:6MSBy2FHPHwM9n2QhrhpuS|602630|white"
+            "spotify:track:6JYbHb1PuMdQXifYzQpBhe|FCDFB5|black"
+            "spotify:track:0Db0JP732HUEG51xhWoJjj|F3F2EE|black"
+            "spotify:track:7cBAltYsu55X4BgiOUjaSY|422422|white"
+            "spotify:track:3YfS47QufnLDFA71FUsgCM|E9DFBC|black"
+          )
+
+          # Sceglie un elemento casuale
+          PICK=${TRACKS[$RANDOM % ${#TRACKS[@]}]}
+
+          # Splitta i tre campi
+          IFS='|' read -r TRACK_URI BG_COLOR TEXT_COLOR <<< "$PICK"
+
+          URL="https://scannables.scdn.co/uri/plain/jpeg/${BG_COLOR}/${TEXT_COLOR}/640/${TRACK_URI}"
+          
+          # Sostituisce l'intera URL nel README (colore + track)
+          sed -i "s|https://scannables.scdn.co/uri/plain/jpeg/[^/]*/[^/]*/640/spotify:track:[^\"|]*|${NEW_URL}|g" README.md
+
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: random track update"
+          git push
