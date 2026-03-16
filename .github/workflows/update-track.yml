@@ -52,7 +52,7 @@ jobs:
           URL="https://scannables.scdn.co/uri/plain/jpeg/${BG_COLOR}/${TEXT_COLOR}/640/${TRACK_URI}"
           
           # Sostituisce l'intera URL nel README (colore + track)
-          sed -i "s|https://scannables.scdn.co/uri/plain/jpeg/[^/]*/[^/]*/640/spotify:track:[^\"|]*|${NEW_URL}|g" README.md
+          sed -i "s|https://scannables.scdn.co/uri/plain/jpeg/[^/]*/[^/]*/640/spotify:track:[^\"|]*|${URL}|g" README.md
 
 
       - name: Commit changes
