@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Programming%20today%20is%20a%20race%20between%20software%20engineers%20striving%20to%20build%20bigger%20and%20better%20idiot-proof%20programs%2C%20and%20the%20universe%20trying%20to%20produce%20bigger%20and%20better%20idiots.%20So%20far%2C%20the%20universe%20is%20winning.&author=Rick%20Cook💻%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/163762/white/640/spotify:track:6OzeWNA1SQgZBw5caqAIKN" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/F8CD02/black/640/spotify:track:1Bd1LDJyjKDJC7pznEMYOR" alt="Spotify" height=80/>
 </div>
