@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Where%20words%20fail%2C%20music%20speaks.&author=Hans%20Christian%20Andersen🎸%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Fare%20ridere%20%C3%A8%20una%20cosa%20seria.%20Fin%20troppo%20seria.&author=Paolo%20Rossi🎭%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/879DB4/black/640/spotify:track:2DmZ7aPhT5jkqLIYxTpQlJ" alt="Spotify" height=80/>
