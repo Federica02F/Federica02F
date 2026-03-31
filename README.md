@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Nobody's%20perfect.&author=Some%20Like%20It%20Hot%20(1959)🎬%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/0D1B2A/white/640/spotify:track:5ZaDUleherOLBbHk2PU1Kr" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/E9DFBC/black/640/spotify:track:3YfS47QufnLDFA71FUsgCM" alt="Spotify" height=80/>
 </div>
