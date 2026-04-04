@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Without%20music%2C%20life%20would%20be%20a%20mistake.&author=Friedrich%20Nietzsche🎸%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Cos%C3%AC%20%C3%A8%2C%20se%20vi%20pare.&author=Luigi%20Pirandello🪶%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/D8723B/black/640/spotify:track:4unVGHGz7jg12vaahoFyMB" alt="Spotify" height=80/>
