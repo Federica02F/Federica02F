@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Cos%C3%AC%20%C3%A8%2C%20se%20vi%20pare.&author=Luigi%20Pirandello🪶%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/425A4D/white/640/spotify:track:6dGnYIeXmHdcikdzNNDMm2" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/422422/white/640/spotify:track:7cBAltYsu55X4BgiOUjaSY" alt="Spotify" height=80/>
 </div>
