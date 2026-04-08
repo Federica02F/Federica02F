@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler💻%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Your%20future%20is%20whatever%20you%20make%20it.%20So%20make%20it%20a%20good%20one.&author=Back%20to%20the%20Future%20Part%20II%20(1989)🎬%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/AB1E2E/black/640/spotify:track:32p3e78I33Cxv13Nvqimxz" alt="Spotify" height=80/>
