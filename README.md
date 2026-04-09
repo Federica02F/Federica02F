@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Your%20future%20is%20whatever%20you%20make%20it.%20So%20make%20it%20a%20good%20one.&author=Back%20to%20the%20Future%20Part%20II%20(1989)🎬%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Il%20modo%20per%20iniziare%20%C3%A8%20smettere%20di%20parlare%20e%20cominciare%20a%20fare.&author=Walt%20Disney💫%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/FCDFB5/black/640/spotify:track:6JYbHb1PuMdQXifYzQpBhe" alt="Spotify" height=80/>
