@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Fare%20ridere%20%C3%A8%20una%20cosa%20seria.%20Fin%20troppo%20seria.&author=Paolo%20Rossi🎭%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/AB1E2E/black/640/spotify:track:32p3e78I33Cxv13Nvqimxz" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/0D1B2A/white/640/spotify:track:5ZaDUleherOLBbHk2PU1Kr" alt="Spotify" height=80/>
 </div>
