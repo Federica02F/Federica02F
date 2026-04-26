@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=It's%20not%20a%20bug%20%E2%80%94%20it's%20an%20undocumented%20feature!&author=Anonimo💻%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Fare%20ridere%20%C3%A8%20una%20cosa%20seria.%20Fin%20troppo%20seria.&author=Paolo%20Rossi🎭%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/422422/white/640/spotify:track:7cBAltYsu55X4BgiOUjaSY" alt="Spotify" height=80/>
