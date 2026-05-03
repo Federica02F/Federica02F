@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Without%20music%2C%20life%20would%20be%20a%20mistake.&author=Friedrich%20Nietzsche🎸%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=When%20I%20wrote%20this%20code%2C%20only%20God%20and%20I%20understood%20what%20I%20did.%20Now%20only%20God%20knows.&author=Anonimo💻%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/292929/white/640/spotify:track:5VZIBqWgKObgTwHSB7FQsl" alt="Spotify" height=80/>
