@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Programming%20today%20is%20a%20race%20between%20software%20engineers%20striving%20to%20build%20bigger%20and%20better%20idiot-proof%20programs%2C%20and%20the%20universe%20trying%20to%20produce%20bigger%20and%20better%20idiots.%20So%20far%2C%20the%20universe%20is%20winning.&author=Rick%20Cook💻%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=It's%20not%20a%20bug%20%E2%80%94%20it's%20an%20undocumented%20feature!&author=Anonimo💻%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/F3F2EE/black/640/spotify:track:0Db0JP732HUEG51xhWoJjj" alt="Spotify" height=80/>
