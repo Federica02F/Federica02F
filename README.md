@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Your%20future%20is%20whatever%20you%20make%20it.%20So%20make%20it%20a%20good%20one.&author=Back%20to%20the%20Future%20Part%20II%20(1989)🎬%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Where%20words%20fail%2C%20music%20speaks.&author=Hans%20Christian%20Andersen🎸%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/422422/white/640/spotify:track:7cBAltYsu55X4BgiOUjaSY" alt="Spotify" height=80/>
