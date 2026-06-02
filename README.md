@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=When%20I%20wrote%20this%20code%2C%20only%20God%20and%20I%20understood%20what%20I%20did.%20Now%20only%20God%20knows.&author=Anonimo💻%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/9E312D/white/640/spotify:track:1bPjKGuUCsZt6m2oQs94mN" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/457B9D/white/640/spotify:track:77NNZQSqzLNqh2A9JhLRkg" alt="Spotify" height=80/>
 </div>
