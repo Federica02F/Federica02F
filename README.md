@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Without%20music%2C%20life%20would%20be%20a%20mistake.&author=Friedrich%20Nietzsche🎸%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Nobody's%20perfect.&author=Some%20Like%20It%20Hot%20(1959)🎬%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/425A4D/white/640/spotify:track:6dGnYIeXmHdcikdzNNDMm2" alt="Spotify" height=80/>
