@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson💻%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/DA2828/black/640/spotify:track:7jaqqD5RuxCzGXx4HeB4Dh" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/D8723B/black/640/spotify:track:4unVGHGz7jg12vaahoFyMB" alt="Spotify" height=80/>
 </div>
