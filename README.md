@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Il%20teatro%20%C3%A8%20l'unico%20posto%20dove%20puoi%20dire%20la%20verit%C3%A0%20e%20la%20gente%20ride%2C%20invece%20di%20arrabbiarsi.&author=Paolo%20Rossi🎭%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/FCDFB5/black/640/spotify:track:6JYbHb1PuMdQXifYzQpBhe" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/0D1B2A/white/640/spotify:track:5ZaDUleherOLBbHk2PU1Kr" alt="Spotify" height=80/>
 </div>
