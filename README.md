@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Where%20words%20fail%2C%20music%20speaks.&author=Hans%20Christian%20Andersen🎸%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Il%20modo%20per%20iniziare%20%C3%A8%20smettere%20di%20parlare%20e%20cominciare%20a%20fare.&author=Walt%20Disney💫%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/4283C2/white/640/spotify:track:0HQf0bd3oSZei450iKuUFR" alt="Spotify" height=80/>
