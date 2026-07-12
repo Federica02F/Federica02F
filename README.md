@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson💻%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=It's%20not%20a%20bug%20%E2%80%94%20it's%20an%20undocumented%20feature!&author=Anonimo💻%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/E3C96C/black/640/spotify:track:1QbOvACeYanja5pbnJbAmk" alt="Spotify" height=80/>
