@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=It's%20not%20a%20bug%20%E2%80%94%20it's%20an%20undocumented%20feature!&author=Anonimo💻%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/E37427/black/640/spotify:track:3Y7fpFZbHLpAvWJJYGehz0" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/37307F/white/640/spotify:track:3cfOd4CMv2snFaKAnMdnvK" alt="Spotify" height=80/>
 </div>
