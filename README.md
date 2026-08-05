@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=La%20semplicit%C3%A0%20%C3%A8%20la%20massima%20sofisticazione.&author=Leonardo%20da%20Vinci💫%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Where%20words%20fail%2C%20music%20speaks.&author=Hans%20Christian%20Andersen🎸%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/EF7B64/black/640/spotify:track:7vAzIVfyFp8hOVCOQChwA0" alt="Spotify" height=80/>
