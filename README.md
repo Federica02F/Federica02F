@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Where%20words%20fail%2C%20music%20speaks.&author=Hans%20Christian%20Andersen🎸%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/DA2828/black/640/spotify:track:7jaqqD5RuxCzGXx4HeB4Dh" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/D8723B/black/640/spotify:track:4unVGHGz7jg12vaahoFyMB" alt="Spotify" height=80/>
 </div>
