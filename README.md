@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=La%20semplicit%C3%A0%20%C3%A8%20la%20massima%20sofisticazione.&author=Leonardo%20da%20Vinci💫%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/425A4D/white/640/spotify:track:6dGnYIeXmHdcikdzNNDMm2" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/E3C96C/black/640/spotify:track:1QbOvACeYanja5pbnJbAmk" alt="Spotify" height=80/>
 </div>
