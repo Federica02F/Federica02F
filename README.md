@@ -51,5 +51,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Il%20modo%20per%20iniziare%20%C3%A8%20smettere%20di%20parlare%20e%20cominciare%20a%20fare.&author=Walt%20Disney💫%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
-<img src="https://scannables.scdn.co/uri/plain/jpeg/37307F/white/640/spotify:track:3cfOd4CMv2snFaKAnMdnvK" alt="Spotify" height=80/>
+<img src="https://scannables.scdn.co/uri/plain/jpeg/EF7B64/black/640/spotify:track:7vAzIVfyFp8hOVCOQChwA0" alt="Spotify" height=80/>
 </div>
