@@ -48,7 +48,7 @@
 ### ✨ Mood:
 <div align="center">
 <!-- QUOTE-START -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Il%20teatro%20%C3%A8%20l'unico%20posto%20dove%20puoi%20dire%20la%20verit%C3%A0%20e%20la%20gente%20ride%2C%20invece%20di%20arrabbiarsi.&author=Paolo%20Rossi🎭%20" Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=1d3557&authorColor=457b9d&backgroundColor=f1faee&symbolColor=1d3557&border=true&quote=Without%20music%2C%20life%20would%20be%20a%20mistake.&author=Friedrich%20Nietzsche🎸%20" Quote"/>
 <!-- QUOTE-END -->
 <br>
 <img src="https://scannables.scdn.co/uri/plain/jpeg/9E312D/white/640/spotify:track:1bPjKGuUCsZt6m2oQs94mN" alt="Spotify" height=80/>
